@@ -76,8 +76,7 @@ const checkWinner = () => {
 newGameBtn.addEventListener("click", resetGame);
 resetBtn.addEventListener("click", resetGame);
 
-//git remote add origin https://github.com/SIDDHI-RANE/Tic-Tac-Toe_24.git
-// git push -u origin main 
+
 
 // //2D Array
 // let arr2 = [
